@@ -1,0 +1,116 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	width: 1000px;
+	margin: 0 auto;
+	background-image: url(https://crossfittrafo.com/wp-content/uploads/2018/04/black-rock-concrete-texture-15.jpg);
+	background-attachment: fixed;
+}
+
+h1 {
+	font-size: 2.2em;
+	padding: 10px;
+	text-align: center;
+	margin-top: 40px;
+	margin-bottom: 35px;
+	background: rgba(0, 0, 0, 0.5);
+	border-radius: 30px;
+}
+
+h2 {
+	margin-top: 50px;
+	margin-bottom: 35px;
+}
+
+h4 {
+	font-size: 19px;
+}
+
+h1, h2, h3, h4, p, i, blockquote, figcaption, hr, ul {
+	color:aliceblue;
+}
+
+p {
+	text-align:justify;
+	font-size:19px; 
+}
+
+i {
+	font-size: 21px;
+	margin-left: 35px;
+	margin-top: 40px;
+}
+
+a {
+	color:aqua;
+}
+
+blockquote {
+	text-align:center;
+	font-size: 19px;
+	margin-bottom: 25px;
+}
+
+.terem img {
+	width: 500px;
+	height: auto;
+	float: right;
+	margin-left: 20px;
+	margin-top: 37px;
+}
+
+.terem figcaption {
+	clear: both;
+	float: right;
+	margin-right: 110px;
+}
+
+.team img {
+	width:400px;
+	height: auto;
+	float:left;
+	margin-right: 20px;
+	margin-top: 37px;
+}
+footer p {
+	text-align: center;
+}
+
+figure {
+	margin:0px;
+	padding:0px;
+} 
+
+ul {
+	font-size: 19px;
+}
+
+img {
+	width:1000px;
+	height: auto;
+	border-radius: 20px;
+	box-shadow: 5px 5px 5px black;
+}
+
+figcaption {
+	text-align: center;
+	font-size: 19px;
+}
+.wod img {
+	width:500px;
+	height: auto;
+	float: right;
+	margin-top: 60px;
+}
+.wod figcaption {
+	clear: both;
+	float: right;
+	margin-right: 25px;
+}
+.kiemelt {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+
